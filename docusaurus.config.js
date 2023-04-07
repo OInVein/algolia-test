@@ -68,7 +68,7 @@ const config = {
         appId: 'OCL6ZN77N1',
 
         // Public API key: it is safe to commit it
-        apiKey: '403fe3f24ac7b1ef45496e991587f0e7',
+        apiKey: '73c1fa1fbb76386965dedcb1ae0bcc6b',
 
         indexName: 'test_ALGOLIA',
 
