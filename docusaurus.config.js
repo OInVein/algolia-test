@@ -68,9 +68,9 @@ const config = {
         appId: 'OCL6ZN77N1',
 
         // Public API key: it is safe to commit it
-        apiKey: '73c1fa1fbb76386965dedcb1ae0bcc6b',
+        apiKey: '403fe3f24ac7b1ef45496e991587f0e7',
 
-        indexName: 'test_ALGOLIA',
+        indexName: 'netlify_85e60fbd-f5a1-4773-a426-8e88b4dd501f_master_all',
 
         // Optional: Replace parts of the item URLs from Algolia. Useful when using the same search index for multiple deployments using a different baseUrl. You can use regexp or string in the `from` param. For example: localhost:3000 vs myCompany.com/docs
         // replaceSearchResultPathname: {
