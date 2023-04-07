@@ -65,12 +65,12 @@ const config = {
       image: 'img/docusaurus-social-card.jpg',
       algolia: {
         // The application ID provided by Algolia
-        appId: 'OCL6ZN77N1',
+        appId: 'Y4F1Y54M1P',
 
         // Public API key: it is safe to commit it
-        apiKey: '403fe3f24ac7b1ef45496e991587f0e7',
+        apiKey: 'd8e348da984f4a67eb60bac26a1511e7',
 
-        indexName: 'test_DOG',
+        indexName: 'test_INDICES',
 
         // Optional: Replace parts of the item URLs from Algolia. Useful when using the same search index for multiple deployments using a different baseUrl. You can use regexp or string in the `from` param. For example: localhost:3000 vs myCompany.com/docs
         // replaceSearchResultPathname: {
